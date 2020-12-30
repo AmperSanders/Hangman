@@ -1,0 +1,10 @@
+E:\my stuff\applications\VsProjects\HangmanGame\bin\Release\HangmanGame.exe.config
+E:\my stuff\applications\VsProjects\HangmanGame\bin\Release\HangmanGame.exe
+E:\my stuff\applications\VsProjects\HangmanGame\bin\Release\HangmanGame.pdb
+E:\my stuff\applications\VsProjects\HangmanGame\obj\Release\HangmanGame.csprojAssemblyReference.cache
+E:\my stuff\applications\VsProjects\HangmanGame\obj\Release\HangmanGame.Form1.resources
+E:\my stuff\applications\VsProjects\HangmanGame\obj\Release\HangmanGame.Properties.Resources.resources
+E:\my stuff\applications\VsProjects\HangmanGame\obj\Release\HangmanGame.csproj.GenerateResource.cache
+E:\my stuff\applications\VsProjects\HangmanGame\obj\Release\HangmanGame.csproj.CoreCompileInputs.cache
+E:\my stuff\applications\VsProjects\HangmanGame\obj\Release\HangmanGame.exe
+E:\my stuff\applications\VsProjects\HangmanGame\obj\Release\HangmanGame.pdb
